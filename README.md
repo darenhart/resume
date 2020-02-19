@@ -1,11 +1,8 @@
 ## Daniel Werle Arenhart
 
 *Full Stack Web Developer* · Porto Alegre, Brazil
-
 <arenhart.daniel@gmail.com>
-
 [linkedin.com/in/darenhart](http://linkedin.com/in/darenhart)
-
 [github.com/darenhart](http://github.com/darenhart)
 
 --------
@@ -17,18 +14,17 @@
   - Worked on a digital wallet using microservices architecture
   - Technologies: Typescript, React, Node.js, NestJS, Java Spring, RabbitMQ, AWS, Rancher
   - Customers: Cosan, Shell, Payly
-- **Full Stack Web Developer, Eagle Care · Self-employed** 
+- **Full Stack Web Developer, Eagle Care · Co-Founder** 
   <span style="color: grey; font-size: 14px">Jul/2018 - Jun/2019 · Porto Alegre, Brazil</span>
-  - Built a PWA for scheduling system for health 
-  - Technologies: Angular, PHP, PWA, Laravel, MySQL
-- **Full Stack Web Developer, Eagle Tecnologia E Design** 
+  - Built an appointment scheduling web app for community health centers
+  - Technologies: Angular, PHP, Laravel, MySQL
+- **Full Stack Web Developer, Eagle Tecnologia E Design · Freelancer** 
   <span style="color: grey; font-size: 14px">2012 - 2018 · Porto Alegre, Brazil</span>
-  - Built Progressive Web Apps
-  - Implementation of an email and sms marketing system
-  - Implementation of a website to analyse brazilian political campaign funds
-  - **Hurbanize**: A progressive web app (PWA) with drawing interaction which has been presented
-    on Tomie Ohtake Institute.
-  - Technologies: ES6, Angular, Firebase Realtime Database, Firebase Cloud Messaging, PWA, Wordpress, Laravel, CodeIgniter, MySQL, Postgres, Gulp, Webpack
+  - Built Progressive Web Apps (PWA)
+  - Built an email and sms marketing system
+  - Built a website to analyze brazilian political campaign funds
+  - Built Hurbanize: A progressive web app (PWA) with drawing interaction which has been presented on Tomie Ohtake Institute.
+  - Technologies: ES6, Angular, Firebase, PWA, Wordpress, Laravel, CodeIgniter, MySQL, Postgres
 - **Test Automation Developer, e-Core**
   <span style="color: grey; font-size: 14px">Oct/2015 - Jul/2017 · Porto Alegre, Brazil</span>
   - Development of end-to-end test automation suites
@@ -59,11 +55,11 @@
 
 (8+ years): HTML, CSS, JavaScript, PHP, MySQL, Linux
 
-(5+ years): HTML5, CSS3, AngularJS, Sass.
+(5+ years): HTML5, CSS3, AngularJS, Sass, Git
 
-(2+ years): PWA, Laravel, CodeIgniter, NodeJS, ES6
+(2+ years): Typescript, ES6, PWA, Laravel, CodeIgniter, NodeJS
 
-(1+ years): React, Angular6+, Java Spring, MongoDB, Firebase, Jasmine, AWS
+(1+ years): React, Angular6+, Java Spring, MongoDB, Firebase, Jasmine, AWS, RabbitMQ
 
 --------------
 
