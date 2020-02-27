@@ -38,8 +38,7 @@
   - Carriers which services were provided: Beazley, AVMA, United Concordia, Florida Blue.
   - Technologies: PHP, MySQL, MSSQL, IBM DB2, HTML5, CSS3, JavaScript, jQuery, Git, SOAP.
 - **Full Stack Web Developer, Univates University** - <span style="color: grey; font-size: 14px">Mar/2011 - Jul/2012 · Lajeado, Brazil</span>
-- **Data Analyst Trainee, SOL7 - Tecnologia de Decisão** - <span style="color: grey; font-size: 14px">Aug/2010 - Feb/2011 · Lajeado,
-  Brazil</span>
+- **Data Analyst Trainee, SOL7 - Tecnologia de Decisão** - <span style="color: grey; font-size: 14px">Aug/2010 - Feb/2011 · Lajeado, Brazil</span>
 
 ---------
 
