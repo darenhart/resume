@@ -1,0 +1,19 @@
+{
+  "name": "resume",
+  "version": "1.0.0",
+  "description": "Daniel Werle Arenhart - resume",
+  "main": "app.js",
+  "scripts": {
+    "build": "cat template.html > index.html && marked < README.md >> index.html && cat footer.html >> index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/darenhart/resume.git"
+  },
+  "author": "Daniel Werle Arenhart",
+  "license": "ISC",
+  "dependencies": {
+    "github-markdown-css": "^4.0.0",
+    "marked": "^0.8.0"
+  }
+}
