@@ -11,7 +11,7 @@ Full Stack Web Developer with 8 years of experience · Porto Alegre, Brazil <br>
 
 - **Full Stack Web Developer, Phi**<br>
   <span style="color: grey; font-size: 14px">Jun/2019 - present · Porto Alegre, Brazil</span>
-  - Working on a Fin-tech using microservices architecture
+  - Working on a platform for digital payments using microservices architecture
   - Technologies: React, Node.js, Typescript, NestJS, Java, Spring, RabbitMQ, AWS, Rancher, MongoDB, MySQL, Jest, Sinon, Enzime
   - Customers: Cosan, Shell, Payly
 - **Full Stack Web Developer, Eagle Care · Co-Founder** <br>
