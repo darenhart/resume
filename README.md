@@ -12,11 +12,12 @@ Full Stack Developer with 8 years of experience · Porto Alegre, Brazil <br>
 - **Full Stack Developer, Phi**<br>
   <span style="color: grey; font-size: 14px">Jun/2019 - present · Porto Alegre, Brazil</span>
   - Working on a platform for digital payments using microservices architecture
-  - Technologies: React, Node.js, Typescript, NestJS, Java, Spring, RabbitMQ, AWS, Rancher, MongoDB, MySQL, Jest, Sinon, Enzime
+  - Technologies: React, Node.js, JavaScript, TypeScript, NestJS, Java, Spring, RabbitMQ, MongoDB, MySQL, AWS, Rancher
   - Customers: Cosan, Shell, Payly
-- **Full Stack Developer, Eagle Care · Co-Founder** <br>
+- **Full Stack Developer, Eagle Care** <br>
   <span style="color: grey; font-size: 14px">Jul/2018 - Jun/2019 · Porto Alegre, Brazil</span>
-  - Built an appointment scheduling web app for community health centers
+  - Built telemedicine solutions
+  - Built an appointment scheduling PWA for community health centers
   - Technologies: Angular, PHP, Laravel, MySQL, Firebase
 - **Full Stack Developer, Eagle Tecnologia E Design · Freelancer** <br>
   <span style="color: grey; font-size: 14px">2012 - 2018 · Porto Alegre, Brazil</span>
@@ -24,7 +25,7 @@ Full Stack Developer with 8 years of experience · Porto Alegre, Brazil <br>
   - Built an email and sms marketing system
   - Built Hurbanize: A progressive web app (PWA) with drawing interaction which has been presented on Tomie Ohtake Institute
   - Built corporate websites
-  - Technologies: ES6, Angular, Firebase, PWA, Wordpress, Laravel, CodeIgniter, MySQL, Postgres
+  - Technologies: JavaScript, Angular, Firebase, Wordpress, Laravel, CodeIgniter, MySQL, Postgres
 - **Test Automation Developer, e-Core**<br>
   <span style="color: grey; font-size: 14px">Oct/2015 - Jul/2017 · Porto Alegre, Brazil</span>
   - Developed end-to-end test automation suites
@@ -47,18 +48,6 @@ Full Stack Developer with 8 years of experience · Porto Alegre, Brazil <br>
 **2012 - Bachelor in Computer Engineering** - Vale do Taquari University - Univates (Incomplete)
 
 **2011 - Computer Technician** - Escola Estadual de Educação Profissional Estrela
-
----------
-
-#### TECHNICAL SKILLS
-
-(8+ years): HTML, CSS, JavaScript, PHP, MySQL, Linux
-
-(5+ years): HTML5, CSS3, AngularJS, Sass, Git, Jira
-
-(2+ years): Typescript, ES6, PWA, Laravel, CodeIgniter, NodeJS, Selenium WebDriver
-
-(1+ years): React, Angular6+, Java, Spring, MongoDB, Firebase, Jasmine, AWS, RabbitMQ
 
 --------------
 
