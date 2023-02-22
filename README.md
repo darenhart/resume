@@ -1,9 +1,7 @@
 ## Daniel Werle Arenhart
 
 Software Engineer · Brazil <br>
-<arenhart.daniel@gmail.com> <br>
-[linkedin.com/in/darenhart](http://linkedin.com/in/darenhart) <br>
-[github.com/darenhart](http://github.com/darenhart) <br>
+<arenhart.daniel@gmail.com> · [linkedin.com/in/darenhart](https://linkedin.com/in/darenhart) · [github.com/darenhart](https://github.com/darenhart)
 
 ------
 
@@ -36,17 +34,16 @@ Software Engineer with 10+ years of experience, specialized in full-stack web ap
   <span style="color: grey; font-size: 14px">Jun/2019 - Oct/2020 · Brazil</span>
   - Worked on a platform for digital payments using microservices architecture.
   - **Customers**: Cosan, Shell, Payly
-  - **Skills**: React · Node.js · JavaScript · TypeScript · NestJS · Java · Spring · RabbitMQ · MongoDB · MySQL · AWS · Rancher
+  - **Skills**: React · Node.js · JavaScript · TypeScript · NestJS · Java · RabbitMQ · MongoDB · MySQL · AWS · Rancher
 - **Tech Lead and Architect at Eagle Care · Co-Founder**<br>
   <span style="color: grey; font-size: 14px">2018 - 2019 · Brazil</span>
-  - Built an appointment scheduling PWA for community health centers.
+  - Built an appointment scheduling web app for community health centers.
   - **Skills**: Angular · PHP · Laravel · MySQL · Firebase
 - **Full Stack Developer at Eagle Tecnologia E Design · Freelancer** <br>
   <span style="color: grey; font-size: 14px">2012 - 2018 · Brazil</span>
-  - Built Progressive Web Apps (PWA).
   - Built an email and sms marketing system.
   - Built Hurbanize: A PWA with drawing interaction which has been presented on Tomie Ohtake Institute.
-  - Built corporate websites.
+  - Built corporate websites and Progressive Web Apps (PWA). .
   - **Skills**: JavaScript · Angular · Firebase · Wordpress · Laravel · CodeIgniter · MySQL · Postgres
 - **Test Automation Developer at e-Core**<br>
   <span style="color: grey; font-size: 14px">2015 - 2017 · Brazil</span>
