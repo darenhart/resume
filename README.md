@@ -38,9 +38,9 @@ Software Engineer with 10+ years of experience, specialized in full-stack web ap
 - **Full Stack Developer at Eagle Tecnologia E Design · Freelancer** <br>
   <span style="color: grey; font-size: 14px">2012 - 2018 · Brazil</span>
   - Built an email and sms marketing system.
-  - Built Hurbanize: A PWA with drawing interaction which has been presented on Tomie Ohtake Institute.
+  - Built Hurbanize: A PWA with drawing interaction which has been presented at Tomie Ohtake Institute.
   - Built corporate websites and Progressive Web Apps (PWA). .
-  - **Skills**: JavaScript · Angular · Firebase · Wordpress · Laravel · CodeIgniter · MySQL · Postgres
+  - **Skills**: JavaScript · PHP · Angular · Firebase · Wordpress · Laravel · CodeIgniter · MySQL · Postgres
 - **Test Automation Developer at e-Core**<br>
   <span style="color: grey; font-size: 14px">2015 - 2017 · Brazil</span>
   - Developed end-to-end test automation suites.
