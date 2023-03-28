@@ -3,7 +3,7 @@
 Software Engineer · Brazil <br>
 <arenhart.daniel@gmail.com> · [linkedin.com/in/darenhart](https://linkedin.com/in/darenhart) · [github.com/darenhart](https://github.com/darenhart)
 
-Experienced Software Engineer with over 10 years of expertise in full-stack web application development. Demonstrated success in collaborating with multicultural teams and co-founding a startup.
+Software Engineer with over 10 years of experience in full-stack web application development. Demonstrated success in collaborating with multicultural teams and co-founding a startup.
 
 --------
 
