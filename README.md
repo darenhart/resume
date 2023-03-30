@@ -11,7 +11,7 @@ Software Engineer with over 10 years of experience in full-stack web application
 
 **Expert**: JavaScript · React · HTML5 · CSS3 · PHP · MySQL · PostgreSQL · Git
 
-**Advanced**: TypeScript · Angular · RabbitMQ · MongoDB · Node.js · PWA · TDD
+**Advanced**: TypeScript · Angular · RabbitMQ · MongoDB · Node.js · PWA · TDD · E2E Testing
 
 **Familiar**: Python · Django · Java · Spring · Kotlin · AWS · Docker · NestJS  · Rancher · Datadog
 
