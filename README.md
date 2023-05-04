@@ -3,17 +3,17 @@
 Software Engineer · Brazil <br>
 <arenhart.daniel@gmail.com> · [linkedin.com/in/darenhart](https://linkedin.com/in/darenhart) · [github.com/darenhart](https://github.com/darenhart)
 
-Software Engineer with over 10 years of experience in full-stack web application development. Demonstrated success in collaborating with multicultural teams and co-founding a startup.
+As a Software Engineer with over 10 years of experience in full-stack web application development and team leadership, I have collaborated on projects ranging from freelance work to multinational enterprises. In addition, I co-founded a successful healthcare startup.
 
 --------
 
 #### TECHNICAL SKILLS
 
-**Expert**: JavaScript · React · HTML5 · CSS3 · PHP · MySQL · PostgreSQL · Git
+**Expert**: JavaScript · React · PHP · MySQL · PostgreSQL · Git · HTML5 · CSS3
 
-**Advanced**: TypeScript · Angular · RabbitMQ · MongoDB · Node.js · PWA · TDD · E2E Testing
+**Advanced**: Python · TypeScript · Angular · MongoDB · Node.js · TDD · E2E Testing · Firebase · Linux
 
-**Familiar**: Python · Django · Java · Spring · Kotlin · AWS · Docker · NestJS  · Rancher · Datadog
+**Familiar**: RabbitMQ · Django · Java · Spring · Kotlin · AWS · Docker · NextJS  · Rancher · Datadog
 
 --------
 
