@@ -24,7 +24,7 @@ As a Software Engineer with over 10 years of experience in full-stack web applic
 
 <span class="gray-light">Mar/2023 - Present · Brazil</span>
 
-- Collaborated with clients to define requirements, address feedback, and deliver tailored solutions.
+- Collaborated closely with clients to define requirements and deliver tailored solutions
 - Engaging in high-impact on-demand projects to automate processes and streamline operations
 - **Skills**: JavaScript · React · Shopify
 
@@ -42,12 +42,12 @@ As a Software Engineer with over 10 years of experience in full-stack web applic
 
 <span class="gray-light">Jun/2019 - Oct/2020 · Brazil</span>
 
-- Collaborated with cross-functional teams to design and implement scalable and maintainable microservices architecture using event-driven programming
+- Collaborated on scalable microservices architecture using event-driven programming
 - Maintained micro-frontend React architecture for modular, scalable development
 - Built a robust service for processing high-volume payment transactions securely and reliably
 - Actively participated in code reviews, enhancing codebase and software quality
-- **Customers**: Cosan, Shell, Payly
-- **Skills**: React · Node.js · JavaScript · TypeScript · NestJS · Java · RabbitMQ · MongoDB · MySQL · AWS · Rancher
+<!-- - **Customers**: Cosan, Shell, Payly -->
+- **Skills**: React · Node.js · TypeScript · NestJS · Java · RabbitMQ · MongoDB · SQL · AWS · Rancher
 
 #### Tech Lead and Architect at Eagle Care · Co-Founder
 
@@ -64,9 +64,9 @@ As a Software Engineer with over 10 years of experience in full-stack web applic
 
 <span class="gray-light">Jun/2012 - Apr/2018 · Brazil</span>
 
-- Developed an email and SMS marketing platform from scratch.
+- Developed an email and SMS marketing platform from scratch
 - Developed Hurbanize: A PWA with drawing interaction, featured at Tomie Ohtake Institute
-- Developed corporate websites and Progressive Web Apps (PWAs).
+- Developed corporate websites and Progressive Web Apps (PWAs)
 - **Skills**: JavaScript · PHP · Angular · Firebase · Wordpress · Laravel · CodeIgniter · SQL
 
 #### Full Stack Developer at e-Core
