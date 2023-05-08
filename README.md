@@ -44,7 +44,7 @@ As a Software Engineer with over 10 years of experience in full-stack web applic
 
 - Collaborated on scalable microservices architecture using event-driven programming
 - Maintained micro-frontend React architecture for modular, scalable development
-- Built a robust service for processing high-volume payment transactions securely and reliably
+- Built a robust SaaS for processing high-volume payment transactions securely and reliably
 - Actively participated in code reviews, enhancing codebase and software quality
 <!-- - **Customers**: Cosan, Shell, Payly -->
 - **Skills**: React · Node.js · TypeScript · NestJS · Java · RabbitMQ · MongoDB · SQL · AWS · Rancher
@@ -102,5 +102,7 @@ Keywords / Skills:
 Jasmine, Protractor, Jenkins
 Celery,
 Postgres, MySQL
+REST
+Test Automation
 
 -->
