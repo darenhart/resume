@@ -10,11 +10,11 @@ As a Software Engineer with over 10 years of experience in full-stack web applic
 
 ### TECHNICAL SKILLS
 
-**Expert**: JavaScript · React · PHP · SQL · Git · HTML5 · CSS3
+**Expert**: JavaScript · React · PHP · SQL · TypeScript · Node.js · Git · HTML5 · CSS3
 
-**Advanced**: Python · TypeScript · Angular · MongoDB · Node.js · TDD · E2E Testing · Firebase · Linux
+**Advanced**: Python · Angular · MongoDB · TDD · E2E Testing · Firebase · Java · Linux · Jira 
 
-**Familiar**: Java · Spring · Kotlin · AWS · Docker · NextJS · Rancher · Datadog · RabbitMQ · Django
+**Familiar**: Spring · Kotlin · AWS · Docker · NextJS · Rancher · Datadog · RabbitMQ · Django
 
 ---
 
