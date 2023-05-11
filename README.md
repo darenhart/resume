@@ -41,6 +41,13 @@ As a Software Engineer with over 10 years of experience in full-stack web develo
 <!-- - **Customers**: Cosan, Shell, Payly -->
 - **Skills**: React · Node.js · TypeScript · NestJS · Java · RabbitMQ · MongoDB · SQL · AWS · Rancher
 
+
+
+<br>
+<br>
+
+
+
 #### Tech Lead and Architect at Eagle Care · Co-Founder
 
 <span class="gray-light">Apr/2018 - Jun/2019 · Brazil  · On-site</span>
