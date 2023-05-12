@@ -4,7 +4,7 @@ Software Engineer · Brazil
 
 <arenhart.daniel@gmail.com> · [linkedin.com/in/darenhart](https://linkedin.com/in/darenhart) · [github.com/darenhart](https://github.com/darenhart)
 
-As a Software Engineer with over 10 years of experience in full-stack web development, I've contributed to diverse projects, from co-founding a startup to working with multinational enterprises. Beyond technical skills, I'm a dedicated team player who values collaboration, continuous learning, and positivity in every situation.
+As a Software Engineer with over 10 years of experience in full-stack web development, I've contributed to diverse projects, from co-founding a startup to working with global companies. Beyond technical skills, I'm a dedicated team player who values collaboration, continuous learning, and positivity in every situation.
 
 ---
 
@@ -98,7 +98,8 @@ As a Software Engineer with over 10 years of experience in full-stack web develo
 <!--
 Keywords / Skills:
 
-Jasmine, Protractor, Jenkins
+Enzime, Jest, Mocha, Jasmine, Protractor
+Jenkins
 Celery,
 Postgres, MySQL
 REST
