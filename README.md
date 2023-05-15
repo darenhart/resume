@@ -105,5 +105,8 @@ Celery,
 Postgres, MySQL
 REST
 Test Automation
+CI/CD
+Kubernetes
+Terraform
 
 -->
