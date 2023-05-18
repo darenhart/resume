@@ -10,11 +10,11 @@ As a Software Engineer with over 10 years of experience in full-stack web develo
 
 ### TECHNICAL SKILLS
 
-**Expert**: JavaScript · React · TypeScript · Node.js · HTML5 · CSS3 · PHP · SQL · Git · REST 
+**Expert**: JavaScript · React · TypeScript · Node.js · HTML5 · CSS3 · PHP · SQL · Git · REST · TDD
 
-**Advanced**: Python · Angular · NoSQL · TDD · E2E Testing · Microservices · Java · Linux · Jira 
+**Advanced**: Python · Angular · NoSQL · E2E Testing · Microservices · Java · Laravel · Jira 
 
-**Familiar**: Spring · Kotlin · AWS · Docker · NextJS · Rancher · Datadog · RabbitMQ · Django
+**Experienced**: Spring · Kotlin · AWS · Docker · Next.js · Kubernetes · Datadog · RabbitMQ · Django
 
 ---
 
@@ -28,9 +28,9 @@ As a Software Engineer with over 10 years of experience in full-stack web develo
 - Handled front-end, back-end, data mirroring, monolith decomposition, and cloud infrastructure.
 - Conducted A/B testing, monitored metrics, and provided insights for continuous improvement.
 - Mentored new engineers, helping them grow and adapt to a fast-paced environment.
-- **Skills**: React · Python · TypeScript · PHP · Kotlin · TDD · Datadog · Docker · AWS · Google Cloud 
+- **Skills**: React · Python · TypeScript · PHP · Kotlin · TDD · Next.js · Docker · AWS · Google Cloud
 
-#### Senior Software Engineer at Phi - Fintech as a Service
+#### Senior Software Engineer at Phi - Fintech (4all hub)
 
 <span class="gray-light">Jun/2019 - Dec/2020 · Brazil · On-site</span>
 
