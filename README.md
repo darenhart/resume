@@ -36,7 +36,7 @@ As a Software Engineer with over 10 years of experience in full-stack web develo
 
 - Contributed on scalable microservices architecture using event-driven programming.
 
-- Maintained micro-frontend React architecture for modular, scalable development.
+- Maintained micro-frontend architecture with React for modular and scalable development.
 
 - Built a robust SaaS for processing high-volume payment transactions securely and reliably.
 
