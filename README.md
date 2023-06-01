@@ -4,7 +4,7 @@ Software Engineer · Brazil
 
 <arenhart.daniel@gmail.com> · [linkedin.com/in/darenhart](https://linkedin.com/in/darenhart) · [github.com/darenhart](https://github.com/darenhart)
 
-As a Software Engineer with over 10 years of experience in full-stack web development, I've contributed to diverse projects, from co-founding a startup to working with global companies. Beyond technical skills, I'm a dedicated team player who values collaboration, continuous learning, and positivity in every situation.
+As a passionate Full Stack Engineer with a decade of experience, I've led a startup to achieve over 100k users and contributed to impactful projects in global tech companies. With deep expertise in JavaScript, a talent for learning quickly, and a commitment to teamwork, I am dedicated to creating meaningful solutions. Outside of work, I stay active with physical exercise and enjoy spending time with family and friends.
 
 ---
 
@@ -12,7 +12,7 @@ As a Software Engineer with over 10 years of experience in full-stack web develo
 
 **Expert**: JavaScript · React · TypeScript · Node.js · HTML5 · CSS3 · PHP · SQL · Git · REST · TDD
 
-**Advanced**: Python · Angular · NoSQL · E2E Testing · Microservices · Java · Laravel · Jira 
+**Advanced**: Python · Angular · Laravel · NoSQL · Microservices · Micro-frontends · Java · E2E
 
 **Experienced**: Spring · Kotlin · AWS · Docker · Next.js · Kubernetes · Datadog · RabbitMQ · Django
 
@@ -34,7 +34,7 @@ As a Software Engineer with over 10 years of experience in full-stack web develo
 
 <span class="gray-light">Jun/2019 - Dec/2020 · Brazil · On-site</span>
 
-- Contributed on scalable microservices architecture using event-driven programming.
+- Contributed on scalable microservices architecture using REST and pub/sub system.
 
 - Maintained micro-frontend architecture with React for modular and scalable development.
 
@@ -99,7 +99,7 @@ As a Software Engineer with over 10 years of experience in full-stack web develo
 <!--
 Keywords / Skills:
 
-Enzime, Jest, Mocha, Jasmine, Protractor
+Enzime, Jest, Mocha, Jasmine, Protractor, Selenium WebDriver
 Jenkins
 Celery,
 Postgres, MySQL
@@ -108,5 +108,10 @@ Test Automation
 CI/CD
 Kubernetes
 Terraform
+MongoDB
+GitHub Actions
+Micro-frontends
+Express
+Redis
 
 -->
