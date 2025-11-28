@@ -35,6 +35,14 @@
       .markdown-body ul {
         padding-left: 1.1em;
       }
+      .markdown-body .techlist {
+        display: flex;
+      }
+
+      .markdown-body .tech div:not(:last-child)::after {
+        content: " · "; /* The content to insert */
+      }
+
       /* .markdown-body p {
         margin-bottom: 0.6em;
       } */
