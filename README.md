@@ -4,7 +4,12 @@ Software Engineer · Brazil
 
 <arenhart.daniel@gmail.com> · [linkedin.com/in/darenhart](https://linkedin.com/in/darenhart) · [github.com/darenhart](https://github.com/darenhart)
 
-As a passionate Full Stack Engineer with 14 years of experience, I've led a startup to achieve over 100k users and contributed to impactful projects in global tech companies. With deep expertise in TypeScript, a talent for learning quickly, and a commitment to teamwork, I am dedicated to creating meaningful solutions. Outside of work, I am a musician and enjoy spending time with family and friends.
+Full Stack Software Engineer with 14 years of experience building and scaling products across startups and global tech companies.
+I’ve led system architecture, shipped production systems used by millions, and worked closely with cross-functional teams.
+Comfortable owning projects end-to-end—from design to monitoring. 
+
+Experienced in system design, cloud environments, microservices, high-reliability payment workflows, observability, automated end-to-end tests, and TDD,
+with strong hands-on skills across TypeScript/JavaScript, React, Next.js, and Node.js.
 
 ---
 
@@ -19,9 +24,9 @@ As a passionate Full Stack Engineer with 14 years of experience, I've led a star
 TypeScript · JavaScript · React · Next.js · Node.js · PostgresSQL · REST · HTML5 · CSS3 · Docker
 </div>
 <div>
-Express · Python · Java · PHP · Django · Angular · NestJS · TailwindCSS · Jest · MongoDB 
+Express · Python · Java · PHP · Django · Angular · NestJS · TailwindCSS · Redux · Jest · MongoDB 
 </div>
-AWS · Sentry · Datadog · RabbitMQ  · Microservices · Micro-frontends
+AWS · Sentry · Datadog · RabbitMQ · Websockets · Microservices · Micro-frontends
 
 ---
 
@@ -50,14 +55,14 @@ AWS · Sentry · Datadog · RabbitMQ  · Microservices · Micro-frontends
 
 <span class="gray-light">Jun/2019 - Dec/2020 · Brazil · On-site</span>
 
-- Contributed on scalable microservices architecture using REST and pub/sub system.
+- Contributed to a scalable microservices architecture using REST and pub/sub system.
 - Maintained micro-frontend architecture with React for modular and scalable development.
 - Built a robust SaaS for processing high-volume payment transactions securely and reliably.
 - Collaborated closely with partners, ensuring successful integration and goal alignment.
 
   <!-- - **Customers**: Cosan, Shell, Payly -->
 
-- **Skills**: TypeScript · React · Node.js · NestJS · Java · RabbitMQ · MongoDB · AWS · Rancher
+- **Skills**: TypeScript · React · Redux · Node.js · NestJS · Java · RabbitMQ · MongoDB · AWS
 
 #### CTO & Co-Founder at [Eagle Care](https://eaglecare.com.br)
 
