@@ -7,9 +7,7 @@ Software Engineer · Brazil
 Full Stack Software Engineer with 14 years of experience building and scaling products across startups and global tech companies.
 I’ve led system architecture, shipped production systems used by millions, and worked closely with cross-functional teams.
 Comfortable owning projects end-to-end—from design to monitoring. 
-
-Experienced in system design, cloud environments, microservices, high-reliability payment workflows, observability, automated end-to-end tests, and TDD,
-with strong hands-on skills across TypeScript/JavaScript, React, Next.js, and Node.js.
+Experienced in system design, cloud environments, microservices, high-reliability payment workflows, observability and automated end-to-end tests.
 
 ---
 
