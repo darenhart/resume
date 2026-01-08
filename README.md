@@ -24,7 +24,7 @@ TypeScript · JavaScript · React · Next.js · Node.js · PostgresSQL · REST �
 <div>
 Express · Python · Java · PHP · Django · Angular · NestJS · TailwindCSS · Redux · Jest · MongoDB 
 </div>
-AWS · Sentry · Datadog · RabbitMQ · Websockets · Microservices · Micro-frontends
+AWS · Sentry · Datadog · RabbitMQ · Websockets · CI/CD · Microservices · Micro-frontends
 
 ---
 
@@ -68,7 +68,8 @@ AWS · Sentry · Datadog · RabbitMQ · Websockets · Microservices · Micro-fro
 
 - Co-founded the startup, driving its technical vision, architecture, and initial development.
 - Led a 4-member team, actively coordinating work, roadmap, and delivery.
-- Achieved rapid growth, serving over 100k users and facilitating 30k medical consultations.
+- Achieved rapid growth, serving over 40k users.
+<!-- - Cut waiting queues by 90%, enhancing patient experience and efficiency. -->
 - Worked with stakeholders to identify, prioritize, and ship product improvements.
 - **Skills**: TypeScript · Angular · PHP · Laravel · SQL · Firebase
 
@@ -88,7 +89,7 @@ AWS · Sentry · Datadog · RabbitMQ · Websockets · Microservices · Micro-fro
 - Worked with global teams, coordinating and communicating with diverse stakeholders.
 - Created E2E test automation suites for US clients like Axispoint, Warner, and AGCO.
 - Maintained HealthPlan Services (US insurance firm) portals for billing and enrollment.
-- **Skills**: PHP · MySQL · HTML5 · CSS3 · JavaScript · jQuery · SOAP · Node.js · E2E
+- **Skills**: PHP · MySQL · HTML5 · CSS3 · JavaScript · jQuery · Selenium · SOAP · Node.js · E2E
 
 **Full Stack Developer at [Univates University](http://univates.br/)** - <span class="gray-light">Feb/2011 - Jun/2012 · Brazil</span>
 
