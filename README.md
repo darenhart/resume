@@ -68,9 +68,9 @@ AWS · Sentry · Datadog · RabbitMQ · Websockets · CI/CD · Microservices · 
 
 - Co-founded the startup, driving its technical vision, architecture, and initial development.
 - Led a 4-member team, actively coordinating work, roadmap, and delivery.
-- Achieved rapid growth, serving over 40k users.
 <!-- - Cut waiting queues by 90%, enhancing patient experience and efficiency. -->
 - Worked with stakeholders to identify, prioritize, and ship product improvements.
+- Achieved rapid growth, serving over 40k users.
 - **Skills**: TypeScript · Angular · PHP · Laravel · SQL · Firebase
 
 #### Full Stack Developer (Freelance) at [Eagle Tecnologia E Design](https://www.eagledigital.com.br/)
