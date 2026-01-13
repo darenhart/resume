@@ -6,7 +6,7 @@ Software Engineer · Brazil
 
 Full Stack Software Engineer with 14 years of experience building and scaling products across startups and global tech companies.
 I’ve led system architecture, shipped production systems used by millions, and worked closely with cross-functional teams.
-Comfortable owning projects end-to-end—from design to monitoring. 
+Comfortable owning projects end-to-end—from design to monitoring.
 Experienced in system design, cloud environments, microservices, high-reliability payment workflows, observability and automated end-to-end tests.
 
 ---
@@ -22,7 +22,7 @@ Experienced in system design, cloud environments, microservices, high-reliabilit
 TypeScript · JavaScript · React · Next.js · Node.js · PostgresSQL · REST · HTML5 · CSS3 · Docker
 </div>
 <div>
-Express · Python · Java · PHP · Django · Angular · NestJS · TailwindCSS · Redux · Jest · MongoDB 
+Redux · Jest · React Testing Library · Express · NestJS · TailwindCSS · Python · Java · PHP
 </div>
 AWS · Sentry · Datadog · RabbitMQ · Websockets · CI/CD · Microservices · Micro-frontends
 
