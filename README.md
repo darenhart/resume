@@ -4,7 +4,7 @@ Software Engineer · Brazil
 
 <arenhart.daniel@gmail.com> · [linkedin.com/in/darenhart](https://linkedin.com/in/darenhart) · [github.com/darenhart](https://github.com/darenhart)
 
-Full Stack Software Engineer with 14 years of experience building and scaling products across startups and global tech companies.
+Full Stack Software Engineer with 14 years of experience, including 8+ years with US startups and global tech companies.
 I’ve led system architecture, shipped production systems used by millions, and worked closely with cross-functional teams.
 Comfortable owning projects end-to-end—from design to monitoring.
 Experienced in system design, cloud environments, microservices, high-reliability payment workflows, observability and automated end-to-end tests.
@@ -22,9 +22,9 @@ Experienced in system design, cloud environments, microservices, high-reliabilit
 TypeScript · JavaScript · React · Next.js · Node.js · PostgresSQL · REST · HTML5 · CSS3 · Docker
 </div>
 <div>
-Redux · Jest · React Testing Library · Express · NestJS · TailwindCSS · Python · Java · PHP
+Jest · React Testing Library · Redux · Express · NestJS · TailwindCSS · Python · Java · PHP
 </div>
-AWS · Sentry · Datadog · RabbitMQ · Websockets · CI/CD · Microservices · Micro-frontends
+AWS · Sentry · Datadog · MongoDB · Websockets · CI/CD · Microservices · Micro-frontends
 
 ---
 
@@ -58,9 +58,9 @@ AWS · Sentry · Datadog · RabbitMQ · Websockets · CI/CD · Microservices · 
 - Built a robust SaaS for processing high-volume payment transactions securely and reliably.
 - Collaborated closely with partners, ensuring successful integration and goal alignment.
 
-  <!-- - **Customers**: Cosan, Shell, Payly -->
+  <!-- - **Customers**: Cosan, Raizen, Shell, Payly -->
 
-- **Skills**: TypeScript · React · Redux · Node.js · NestJS · Java · RabbitMQ · MongoDB · AWS
+- **Skills**: TypeScript · React · Node.js · NestJS · Java · RabbitMQ · MongoDB · AWS · Kubernetes
 
 #### CTO & Co-Founder at [Eagle Care](https://eaglecare.com.br)
 
@@ -84,12 +84,11 @@ AWS · Sentry · Datadog · RabbitMQ · Websockets · CI/CD · Microservices · 
 
 #### Full Stack Developer at [e-Core](https://www.e-core.com/pt-br)
 
-<span class="gray-light">Jun/2012 - Oct/2017 · Brazil · Remote</span>
+<span class="gray-light">Jun/2012 - Oct/2017 · United States · Remote</span>
 
-- Worked with global teams, coordinating and communicating with diverse stakeholders.
-- Created E2E test automation suites for US clients like Axispoint, Warner, and AGCO.
 - Maintained HealthPlan Services (US insurance firm) portals for billing and enrollment.
-- **Skills**: PHP · MySQL · HTML5 · CSS3 · JavaScript · jQuery · Selenium · SOAP · Node.js · E2E
+- Created E2E test automation suites for US clients like Axispoint, Warner, and AGCO.
+- **Skills**: PHP · MySQL · JavaScript · Node.js · jQuery · Selenium · SOAP · E2E
 
 **Full Stack Developer at [Univates University](http://univates.br/)** - <span class="gray-light">Feb/2011 - Jun/2012 · Brazil</span>
 
