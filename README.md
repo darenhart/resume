@@ -1,13 +1,18 @@
 # Daniel Werle Arenhart
 
-Software Engineer · Brazil
+Senior Software Engineer · Brazil
 
 <arenhart.daniel@gmail.com> · [linkedin.com/in/darenhart](https://linkedin.com/in/darenhart) · [github.com/darenhart](https://github.com/darenhart)
 
-Full Stack Software Engineer with 14 years of experience, including 8+ years with US startups and global tech companies.
+Full Stack Software Engineer with 14 years of experience, including 8+ years with US-based companies.
 I’ve led system architecture, shipped production systems used by millions, and worked closely with cross-functional teams.
 Comfortable owning projects end-to-end—from design to monitoring.
 Experienced in system design, cloud environments, microservices, high-reliability payment workflows, observability and automated end-to-end tests.
+<!--
+With "INDUSTRY":
+Comfortable owning projects end-to-end—from design and implementation to testing, deployment, and monitoring.
+Experienced in healthcare, fintech, and other sectors, with focus on system design, cloud environments, microservices, high-reliability payment workflows, observability and automated end-to-end tests.
+-->
 
 ---
 
@@ -18,13 +23,14 @@ Experienced in system design, cloud environments, microservices, high-reliabilit
   <div>JavaScript</div>
   <div>React</div>
 </div> -->
+
 <div>
-TypeScript · JavaScript · React · Next.js · Node.js · PostgresSQL · REST · HTML5 · CSS3 · Docker
+TypeScript · JavaScript · React · Next.js · Node.js · Express · PostgresSQL · REST · HTML5 · CSS3 
 </div>
 <div>
-Jest · React Testing Library · Redux · Express · NestJS · TailwindCSS · Python · Java · PHP
+Jest · React Testing Library · Cypress · Redux · NestJS · TailwindCSS · Python · Java · PHP
 </div>
-AWS · Sentry · Datadog · MongoDB · Websockets · CI/CD · Microservices · Micro-frontends
+AWS · Docker · Sentry · MongoDB · Websockets · CI/CD · Microservices · Micro-frontends
 
 ---
 
@@ -34,7 +40,8 @@ AWS · Sentry · Datadog · MongoDB · Websockets · CI/CD · Microservices · M
 
 <span class="gray-light">Aug/2023 - Jul/2025 · United States · Remote</span>
 
-- Developed a modern system for prefab shops, serving key players in the building industry.
+- Developed a modern system for prefab shops, serving key players in the construction industry.
+<!-- - Developed a system for prefab shops, supporting operational and fulfillment workflows. -->
 - Collaborated closely with project leads to design and deliver features, wearing multiple hats.
 - Used data insights and dogfooding to refine features and boost reliability.
 - **Skills**: TypeScript · React · Node.js · Next.js · TailwindCSS · Docker · Postgres · AWS · Sentry
@@ -47,7 +54,7 @@ AWS · Sentry · Datadog · MongoDB · Websockets · CI/CD · Microservices · M
 - Handled front-end, back-end, data mirroring, monolith decomposition, and cloud infrastructure.
 - Conducted A/B testing, monitored metrics, and provided insights for continuous improvement.
 - Mentored new engineers, helping them grow and adapt to a fast-paced environment.
-- **Skills**: TypeScript · React · Python · PHP · Kotlin · TDD · Next.js · Datadog · AWS · Google Cloud
+- **Skills**: TypeScript · React · Python · PHP · Kotlin · TDD · Next.js · Datadog · AWS · GCP
 
 #### Senior Software Engineer at [Phi - Fintech (4all hub)](https://4all.com/)
 
