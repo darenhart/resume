@@ -18,12 +18,6 @@ Experienced in healthcare, fintech, and other sectors, with focus on system desi
 
 ### TECHNICAL SKILLS
 
-<!-- <div class="techlist">
-  <div>TypeScript</div>
-  <div>JavaScript</div>
-  <div>React</div>
-</div> -->
-
 <div>
 TypeScript · JavaScript · React · Next.js · Node.js · Express · PostgresSQL · REST · HTML5 · CSS3 
 </div>
