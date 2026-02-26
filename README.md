@@ -4,10 +4,9 @@ Senior Software Engineer · Brazil
 
 <arenhart.daniel@gmail.com> · [linkedin.com/in/darenhart](https://linkedin.com/in/darenhart) · [github.com/darenhart](https://github.com/darenhart)
 
-Full Stack Software Engineer with 14 years of experience, including 8+ years with US-based companies.
-I’ve led system architecture, shipped production systems used by millions, and worked closely with cross-functional teams.
-Comfortable owning projects end-to-end—from design to monitoring.
-Experienced in system design, cloud environments, microservices, high-reliability payment workflows, observability and automated end-to-end tests.
+Full Stack Software Engineer with 14 years of experience, including 8+ years with US-based companies. I have a background in the full software lifecycle — from co-founding a startup as CTO (scaling to 40k users) to launching production systems used by millions.
+I am comfortable owning projects end-to-end: from design and implementation to testing, deployment, and observability. I have a proven track record in microservices and payment systems where reliability and performance are key.
+
 <!--
 With "INDUSTRY":
 Comfortable owning projects end-to-end—from design and implementation to testing, deployment, and monitoring.
@@ -22,9 +21,10 @@ Experienced in healthcare, fintech, and other sectors, with focus on system desi
 TypeScript · JavaScript · React · Next.js · Node.js · Express · PostgresSQL · REST · HTML5 · CSS3 
 </div>
 <div>
-Jest · React Testing Library · Cypress · Redux · NestJS · TailwindCSS · Python · Java · PHP
+Jest · React Testing Library · Cypress · Redux · NestJS · TailwindCSS · Python · Django · PHP
 </div>
 AWS · Docker · Sentry · MongoDB · Websockets · CI/CD · Microservices · Micro-frontends
+<!-- Java -->
 
 ---
 
@@ -34,8 +34,10 @@ AWS · Docker · Sentry · MongoDB · Websockets · CI/CD · Microservices · Mi
 
 <span class="gray-light">Aug/2023 - Jul/2025 · United States · Remote</span>
 
-- Developed a modern system for prefab shops, serving key players in the construction industry.
+<!-- - Architected a specialized ERP/SaaS platform for the prefab industry, serving enterprise-tier clients. -->
+- Architected a ERP/SaaS platform for the prefab industry, serving enterprise-tier clients.
 <!-- - Developed a system for prefab shops, supporting operational and fulfillment workflows. -->
+- Owned the full CI/CD lifecycle, including automated testing and observability.
 - Collaborated closely with project leads to design and deliver features, wearing multiple hats.
 - Used data insights and dogfooding to refine features and boost reliability.
 - **Skills**: TypeScript · React · Node.js · Next.js · TailwindCSS · Docker · Postgres · AWS · Sentry
@@ -48,13 +50,13 @@ AWS · Docker · Sentry · MongoDB · Websockets · CI/CD · Microservices · Mi
 - Handled front-end, back-end, data mirroring, monolith decomposition, and cloud infrastructure.
 - Conducted A/B testing, monitored metrics, and provided insights for continuous improvement.
 - Mentored new engineers, helping them grow and adapt to a fast-paced environment.
-- **Skills**: TypeScript · React · Python · PHP · Kotlin · TDD · Next.js · Datadog · AWS · GCP
+- **Skills**: TypeScript · React · Python · Django · PHP · TDD · Next.js · Datadog · AWS · GCP
 
-#### Senior Software Engineer at [Phi - Fintech (4all hub)](https://4all.com/)
+#### Senior Software Engineer at [4all hub (Project: Phi - Fintech)](https://4all.com/)
 
 <span class="gray-light">Jun/2019 - Dec/2020 · Brazil · On-site</span>
 
-- Contributed to a scalable microservices architecture using REST and pub/sub system.
+- Contributed to a scalable microservices architecture using REST and event-driven architecture.
 - Maintained micro-frontend architecture with React for modular and scalable development.
 - Built a robust SaaS for processing high-volume payment transactions securely and reliably.
 - Collaborated closely with partners, ensuring successful integration and goal alignment.
