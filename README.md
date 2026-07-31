@@ -30,6 +30,17 @@ AWS · Docker · Sentry · MongoDB · Websockets · CI/CD · Microservices · Mi
 
 ### WORK EXPERIENCE
 
+#### Senior Software Engineer at [O2E Brands](https://www.o2ebrands.com/)
+
+<span class="gray-light">Feb/2026 - Present · Canada · Remote</span>
+
+- Owned the full CI/CD pipeline, establishing automated testing suites and system observability.
+- Leveraged Cursor, Claude, and Jira MCP to automate task context and speed up feature shipping.
+- Led technical design with PMs and Design, reducing scope ambiguity to accelerate releases.
+- **Skills**: TypeScript · React · Node.js · Next.js · NestJS · Docker · Postgres · AWS · Datadog
+
+
+
 #### Senior Software Engineer at [Building Swell](https://www.buildingswell.com/)
 
 <span class="gray-light">Aug/2023 - Jul/2025 · United States · Remote</span>
