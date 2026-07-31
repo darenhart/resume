@@ -19,7 +19,7 @@
   "license": "ISC",
   "dependencies": {
     "github-markdown-css": "^4.0.0",
-    "marked": "^0.8.0"
+    "marked": "^4.0.10"
   },
   "devDependencies": {
     "chokidar-cli": "^3.0.0",
