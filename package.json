@@ -4,8 +4,9 @@
   "description": "Daniel Werle Arenhart - resume",
   "main": "app.js",
   "scripts": {
-    "start": "open dist/index.html",
     "build": "npm run markdown-to-html; npm run add-markdown-css",
+    "dev": "npm run build && concurrently \"chokidar README.md template.html footer.html -c 'npm run build'\" \"live-server dist --no-browser\"",
+    "serve": "live-server dist",
     "markdown-to-html": "cat template.html > dist/index.html && marked < README.md >> dist/index.html && cat footer.html >> dist/index.html",
     "add-markdown-css": "cp node_modules/github-markdown-css/github-markdown.css dist/",
     "deploy": "git add dist && git commit -m 'deploy' && git subtree push --prefix dist origin gh-pages"
@@ -19,5 +20,10 @@
   "dependencies": {
     "github-markdown-css": "^4.0.0",
     "marked": "^0.8.0"
+  },
+  "devDependencies": {
+    "chokidar-cli": "^3.0.0",
+    "concurrently": "^9.1.2",
+    "live-server": "^1.2.2"
   }
 }
